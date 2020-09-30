@@ -4,14 +4,14 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'draw-receipt'
 
-    publishedGroupId = 'com.github.danielfelgar'
+    publishedGroupId = 'com.github.tisistema'
     libraryName = 'DrawReceipt'
     artifact = 'draw-receipt'
 
     libraryDescription = 'Android lib to draw receipt as bitmap for thermal prints'
 
-    siteUrl = 'https://github.com/danielfelgar/DrawReceipt'
-    gitUrl = 'https://github.com/danielfelgar/DrawReceipt.git'
+    siteUrl = 'https://github.com/tisistema/DrawReceipt'
+    gitUrl = 'https://github.com/tisistema/DrawReceipt.git'
 
     libraryVersion = '0.1.3'
 
